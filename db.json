@@ -1,0 +1,63 @@
+{
+  "user": [
+    {
+      "username": "adnan",
+      "email": "admin@gmail.com",
+      "password": "12345678",
+      "confirmPassword": "12345678",
+      "status": "active",
+      "tasks": [],
+      "login": "no",
+      "id": 2
+    },
+    {
+      "username": "jawad",
+      "email": "jawad@gmail.com",
+      "password": "1235",
+      "confirmPassword": "1235",
+      "status": "active",
+      "tasks": [
+        {
+          "id": 1690716091299,
+          "taskText": "eeeeee"
+        },
+        {
+          "id": 1690716091298,
+          "taskText": "eeeeee1"
+        }
+      ],
+      "login": "yes",
+      "id": 3
+    },
+    {
+      "username": "jawad",
+      "email": "adnan@gmail.com",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "status": "active",
+      "tasks": [],
+      "login": "no",
+      "id": 4
+    },
+    {
+      "username": "jawadd",
+      "email": "jawadamin4567@gmail.com",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "status": "active",
+      "tasks": [],
+      "login": "no",
+      "id": 5
+    },
+    {
+      "username": "jawadddd",
+      "email": "jawadaamin4567@gmail.com",
+      "password": "123",
+      "confirmPassword": "123",
+      "status": "active",
+      "tasks": [],
+      "login": "no",
+      "id": 6
+    }
+  ]
+}
